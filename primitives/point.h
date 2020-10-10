@@ -1,6 +1,8 @@
 #ifndef POINT_H
 #define POINT_H
 
+#include <math.h>
+
 struct Point {
   int x, y, z;
 };
